@@ -1,15 +1,16 @@
 # cash
 
-cash
+#cash
+
 Features
 Cash is a library which converts the amounts of money given in different currencies.
 By default, if you put one currency
 
-Getting started
+##Getting started
 Clone the project
 npm install
 
-Commands
+##Commands
 Convert an amount of money from a currency to another one (or many) :
 node index.js 
 By default, if you don't give the final currency, it will convert into euro, US dollar and Pound Sterling.
